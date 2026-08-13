@@ -1,0 +1,901 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "count": 1,
+            "name": "Assembler (Level 1)",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Assembler (Level 2)",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Assembler (Level 3)",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Assembler (Level 4)",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bumper",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Cable Crane",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Chemical Plant",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Conveyor Belt",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Drill (Level 1)",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Drill (Level 2)",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Filtering Splitter",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Furnace (Level 1)",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Furnace (Level 2)",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Item Buffer",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Item Dispenser",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Item Receiver",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Large Wind Turbine",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Loader",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Pipe",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Power Pole (Level 1)",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Power Pole (Level 2)",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Power Pole (with light)",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Recycler",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Replicator",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Small Wind Turbine",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Sorter",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Splitter",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Synthesizer",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Underground Pipe",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Underpass",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Unloader",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Utility Light",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Water Pump",
+            "category": [
+                "Buildings"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wooden Chest",
+            "category": [
+                "Buildings"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Battery",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bearing",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Ceramic Plate",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Circuit Board",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Copper Wire",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Fiberglass",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flow Meter",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Gear",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Glass Lens",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Heatsink",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Heavy Duty Motor",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Iron Plate",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lightweight Frame",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Logic Chip",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Oxygen Tank",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rocket Fuel",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Servo",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Small Motor",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Stator",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Steel Beam",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Steel Cable",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Supercomputer",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Winch",
+            "category": [
+                "Components"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Copper Bar",
+            "category": [
+                "Materials"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Iron Bar",
+            "category": [
+                "Materials"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Plastic Bar",
+            "category": [
+                "Materials"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Plastic Scraps",
+            "category": [
+                "Materials"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Stone",
+            "category": [
+                "Materials"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wood",
+            "category": [
+                "Materials"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Coal",
+            "category": [
+                "Ore"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Copper Ore",
+            "category": [
+                "Ore"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Iron Ore",
+            "category": [
+                "Ore"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Computer Monitor",
+            "category": [
+                "Recyclables"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Computer Tower",
+            "category": [
+                "Recyclables"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Amethyst",
+            "category": [
+                "Gems"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Diamond",
+            "category": [
+                "Gems"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Emerald",
+            "category": [
+                "Gems"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Quartz",
+            "category": [
+                "Gems"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Ruby",
+            "category": [
+                "Gems"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Boardwalk Plank",
+            "category": [
+                "Repairs"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Radio Antenna",
+            "category": [
+                "Repairs"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Roof Tile",
+            "category": [
+                "Repairs"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Donation Bin",
+            "category": [
+                "Misc Items"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Miner Hat",
+            "category": [
+                "Equipment"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Pretty Sunhat",
+            "category": [
+                "Equipment"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Slime Hat",
+            "category": [
+                "Equipment"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Athletic Gloves",
+            "category": [
+                "Equipment"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Mega Gloves",
+            "category": [
+                "Equipment"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Magnet Gloves",
+            "category": [
+                "Equipment"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Ronja's Ring",
+            "category": [
+                "Equipment"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Magnet Boots",
+            "category": [
+                "Equipment"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Sneakers",
+            "category": [
+                "Equipment"
+            ],
+            "useful": true
+        },
+        {
+            "count": 1,
+            "name": "Black Coffee",
+            "category": [
+                "Coffee"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Cappuccino",
+            "category": [
+                "Coffee"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Espresso",
+            "category": [
+                "Coffee"
+            ],
+            "filler": true
+        },
+        {
+            "count": 1,
+            "name": "Flat White",
+            "category": [
+                "Coffee"
+            ],
+            "filler": true
+        },
+        {
+            "count": 5,
+            "name": "Angela <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Benson <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Carter <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Cliff <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Dottle <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Elise <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Ilonka <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Jamie <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Leo <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Michael <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Noor <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Pete <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Pico <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Rebecca <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Ronja <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Sabrina <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Scrubs <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Tia <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Toasty <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Veronica <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "Watts <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        },
+        {
+            "count": 5,
+            "name": "William <3",
+            "category": [
+                "Friendship Levels"
+            ],
+            "progression": true
+        }
+    ]
+}

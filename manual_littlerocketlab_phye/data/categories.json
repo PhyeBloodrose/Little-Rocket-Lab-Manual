@@ -1,0 +1,29 @@
+{
+    "SUMMER": {
+        "hidden": true
+    },
+    "FALL": {
+        "hidden": true
+    },
+    "WINTER": {
+        "hidden": true
+    },
+    "FINALE": {
+        "hidden": true
+    },
+    "Ore": {
+        "yaml_option": [ "Randomize_Ores" ]
+    },
+    "Photo Album": {
+        "yaml_option": [ "Photo_Album" ]
+    },
+    "City Hall Upgrades": {
+        "yaml_option": [ "CityHall_Upgrades" ]
+    },
+    "Friendship Levels": {
+        "yaml_option": [ "Friendsanity" ]
+    },
+    "Friendship": {
+        "yaml_option": [ "Friendsanity" ]
+    }
+}

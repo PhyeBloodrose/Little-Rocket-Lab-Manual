@@ -1,0 +1,91 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "General": {
+        "starting": true,
+        "connects_to": [
+            "MQ_1",
+            "T1_Research"
+        ],
+        "requires": ""
+    },
+    "MQ_1": {
+        "connects_to": [
+            "MQ_2"
+        ],
+        "requires": "|Conveyor Belt| AND |Craft Iron Plate|"
+    },
+    "MQ_2": {
+        "connects_to": [
+            "MQ_3"
+        ],
+        "requires": "|Furnace (Level 1)| AND {OptOne(|Stone|)} AND {OptOne(|Coal|)} AND {OptOne(|Iron Ore|)}"
+    },
+    "MQ_3": {
+        "connects_to": [
+            "T2_Research"
+        ],
+        "requires": "|Item Receiver| AND |Craft Gear|"
+    },
+    "T1_Research": {
+        "connects_to": [
+            "T1-1_Research"
+        ],
+        "requires": "|Craft Gear|"
+    },
+    "T1-1_Research": {
+        "connects_to": [
+            "T1-2_Research"
+        ],
+        "requires": "|Craft Copper Wire|"
+    },
+    "T1-2_Research": {
+        "connects_to": [
+            "T1-1_Research"
+        ],
+        "requires": "|Craft Iron Plate| AND {OptOne(|Stone|)}"
+    },
+    "T2_Research": {
+        "connects_to": [
+            "T2-1_Research"
+        ],
+        "requires": "|Craft Gear| AND |Craft Bearing| AND |Craft Copper Wire|"
+    },
+    "T2-1_Research": {
+        "connects_to": [
+            "T2-2_Research",
+            "MQ_4",
+            "TC2"
+        ],
+        "requires": "|Craft Heatsink|"
+    },
+    "TC2": {
+        "connects_to": [],
+        "requires": "|Craft Stator|"
+    },
+    "MQ_4": {
+        "connects_to": [
+            "MQ_5"
+        ],
+        "requires": "|Craft Stator|"
+    },
+    "T2-2_Research": {
+        "connects_to": [],
+        "requires": "|Craft Small Motor|"
+    },
+    "MQ_5": {
+        "connects_to": [
+            "MQ_6"
+        ],
+        "requires": "|Craft Small Motor|"
+    },
+    "MQ_6": {
+        "connects_to": [
+            "MQ_7"
+        ],
+        "requires": "|Heavy Duty Motor|"
+    },
+    "MQ_7": {
+        "connects_to": [],
+        "requires": "|Craft Small Wind Turbine|"
+    }
+}

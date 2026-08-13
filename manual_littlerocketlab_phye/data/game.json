@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "LittleRocketLab",
+  "creator": "Phye",
+  "filler_item_name": "Day Without Accident",
+  "starting_items": []
+}

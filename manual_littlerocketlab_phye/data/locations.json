@@ -1,0 +1,666 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Introductions - Talk to Angela",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Benson",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Carter",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Cliff",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Dottie",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Elise",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Ilonka",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Jamie",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Michael",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Noor",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Pete",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Rebecca",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Sabrina",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Tia",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to Watts",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Introductions - Talk to William",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Helping out with the rocket",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Out with the old",
+            "region": "General",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Handcrafting",
+            "region": "MQ_1",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Placing and removing buildings and items",
+            "region": "MQ_1",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Smelting ore using furnaces",
+            "region": "MQ_2",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Craft iron plates using an assembler",
+            "region": "MQ_2",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Chaining two assemblers together",
+            "region": "MQ_2",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Collecting items with a receiver",
+            "region": "MQ_3",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Repairing Pico",
+            "region": "MQ_4",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Repairing The Silo",
+            "region": "MQ_4",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Repairing the Silo - Fix the West Server",
+            "region": "MQ_4",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Repairing the Silo - Fix the East Server",
+            "region": "MQ_5",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Repairing the Silo - Fix the Terminal",
+            "region": "MQ_4",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Repairing the Silo Doors",
+            "region": "MQ_6",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Story - Powering the Rocket Silo",
+            "region": "MQ_7",
+            "category": [
+                "Main Story"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Delivery for Noor",
+            "region": "General",
+            "category": [
+                "Quests"
+            ],
+            "requires": "|Craft Copper Bar|"
+        },
+        {
+            "name": "Delivery for Pete",
+            "region": "General",
+            "category": [
+                "Quests"
+            ],
+            "requires": "|Craft Small Wind Turbine|"
+        },
+        {
+            "name": "Delivery for Michael",
+            "region": "General",
+            "category": [
+                "Quests"
+            ],
+            "requires": "|Craft Drill (Level 1)|"
+        },
+        {
+            "name": "Repairing - Water Turbine 1",
+            "region": "General",
+            "category": [
+                "Building Repairs"
+            ],
+            "requires": "|Craft Gear| AND |Craft Bearing| AND |Craft Stator|"
+        },
+        {
+            "name": "Repairing - Water Turbine 2",
+            "region": "General",
+            "category": [
+                "Building Repairs"
+            ],
+            "requires": "|Craft Gear| AND |Craft Bearing| AND |Craft Heavy Duty Motor|"
+        },
+        {
+            "name": "Repairing - Water Turbine 3",
+            "region": "General",
+            "category": [
+                "Building Repairs",
+                "SUMMER"
+            ],
+            "requires": "|Craft Bearing| AND |Craft Stator| AND |Craft Flow Meter|"
+        },
+        {
+            "name": "Angela's Design Shop",
+            "region": "General",
+            "category": [
+                "Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "University Research: Drill",
+            "region": "T1_Research",
+            "category": [
+                "Research - University"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "University Research: Splitter",
+            "region": "T1-1_Research",
+            "category": [
+                "Research - University"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "University Research: Underpass",
+            "region": "T1-2_Research",
+            "category": [
+                "Research - University"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "University Research: Dispenser",
+            "region": "T1-2_Research",
+            "category": [
+                "Research - University"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "University Research: Coal Efficiency",
+            "region": "T1-2_Research",
+            "category": [
+                "Research - University"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "University Research: Unlock Tier 2",
+            "region": "T2_Research",
+            "category": [
+                "Research - University"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "University Research: Assembler (Level 2)",
+            "region": "T2-1_Research",
+            "category": [
+                "Research - University"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "University Research: Furnace (Level 2)",
+            "region": "T2-2_Research",
+            "category": [
+                "Research - University"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "University Research: Buffer",
+            "region": "T2-2_Research",
+            "category": [
+                "Research - University"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "University Research: Furnace Efficiency",
+            "region": "T2-2_Research",
+            "category": [
+                "Research - University"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Throughput Challenge #1",
+            "region": "T2-1_Research",
+            "category": [
+                "Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Throughput Challenge #2",
+            "region": "TC2",
+            "category": [
+                "Quests"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "City Hall - Water Tower",
+            "region": "General",
+            "category": [
+                "City Hall Upgrades"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "City Hall - Kitchen Upgrade",
+            "region": "General",
+            "category": [
+                "City Hall Upgrades"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "City Hall - Additional Land",
+            "region": "General",
+            "category": [
+                "City Hall Upgrades"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 1 - Our first new blueprint!",
+            "region": "T1_Research",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 1 - Welcome to the family, Leo!",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 2 - All in a day's work!",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 2 - Picking up the pieces.",
+            "region": "MQ_7",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 3 - Gimme back my socks!",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 3 - How am I going to pay for this?",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 4 - Finished the new lighthouse!",
+            "region": "General",
+            "category": [
+                "Photo Album",
+                "SUMMER"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 4 - We still have each other.",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 5 - The blessing of the machine spirit.",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 5 - Team Benmo",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 6 - A beautiful day for cutting grass.",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 6 - Remembering those we love.",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 7 - I hate slimes!!",
+            "region": "General",
+            "category": [
+                "Photo Album",
+                "FALL"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 7 - The next generation of engineers.",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 8 - Maybe he does have a heart.",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 8 - My dear Morgan",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 9 - So glad to see you again.",
+            "region": "General",
+            "category": [
+                "Photo Album"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Photo Album Page 9 - The End",
+            "region": "General",
+            "category": [
+                "Photo Album",
+                "FINALE"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Angela - 1 Heart",
+            "region": "General",
+            "category": [
+                "Friendship"
+            ],
+            "requires": "|Angela <3|"
+        },
+        {
+            "name": "Angela - 2 Hearts",
+            "region": "General",
+            "category": [
+                "Friendship"
+            ],
+            "requires": "|Angela <3:2|"
+        },
+        {
+            "name": "Angela - 3 Hearts",
+            "region": "General",
+            "category": [
+                "Friendship"
+            ],
+            "requires": "|Angela <3:3|"
+        },
+        {
+            "name": "Angela - 4 Hearts",
+            "region": "General",
+            "category": [
+                "Friendship"
+            ],
+            "requires": "|Angela <3:4|"
+        },
+        {
+            "name": "Angela - 5 Hearts",
+            "region": "General",
+            "category": [
+                "Friendship"
+            ],
+            "requires": "|Angela <3:5|"
+        },
+        {
+            "name": "Benson - 1 Heart",
+            "region": "General",
+            "category": [
+                "Friendship"
+            ],
+            "requires": "|Benson <3|"
+        },
+        {
+            "name": "Benson - 2 Hearts",
+            "region": "General",
+            "category": [
+                "Friendship"
+            ],
+            "requires": "|Benson <3:2|"
+        },
+        {
+            "name": "Benson - 3 Hearts",
+            "region": "General",
+            "category": [
+                "Friendship"
+            ],
+            "requires": "|Benson <3:3|"
+        },
+        {
+            "name": "Benson - 4 Hearts",
+            "region": "General",
+            "category": [
+                "Friendship"
+            ],
+            "requires": "|Benson <3:4|"
+        },
+        {
+            "name": "Benson - 5 Hearts",
+            "region": "General",
+            "category": [
+                "Friendship"
+            ],
+            "requires": "|Benson <3:5|"
+        },
+        {
+            "name": "Victory Achieved!",
+            "victory": true,
+            "region": "General",
+            "category": [
+                "The GOAL"
+            ],
+            "requires": "(|Open the Silo| AND {YamlCompare(chapter_access = 0)}) OR (|Assemble Rocket Stage 1| AND {YamlCompare(chapter_access = 1)}) OR (|Assemble Rocket Stage 2| AND {YamlCompare(chapter_access = 2)}) OR (|Repairing the Silo| AND {YamlCompare(chapter_access = 3)}) OR (|Assemble Rocket Stage 3| AND {YamlCompare(chapter_access = 4)})"
+        }
+    ]
+}

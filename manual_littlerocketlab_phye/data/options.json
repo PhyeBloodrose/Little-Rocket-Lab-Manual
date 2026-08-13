@@ -1,0 +1,78 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "chapter_access": {
+            "type": "Choice",
+            "description": [
+                "How far do you want to progress during this playthrough?",
+                "The selected chapter defines the maximum intended progression.",
+                "Items and Locations found beyond the selected chapter will be removed from the generation.",
+                "'Finale' is just a nickname for the final chapter of the game!"
+            ],
+            "values": {
+                "Spring": 0,
+                "Summer": 1,
+                "Fall": 2,
+                "Winter": 3,
+                "Finale": 4
+            },
+            "default": 0
+        },
+        "Randomize_Ores": {
+            "description": [
+                "When enabled, will make Ores be randomized in the Multiworld and be required for crafting.",
+                "You are not allowed to mine the specific ores without these items."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Item Options"
+        },
+        "Photo_Album": {
+            "description": [
+                "When enabled, will add a location for each photo in the Photo Album."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+        "CityHall_Upgrades": {
+            "description": [
+                "When enabled, will add the city hall upgrades as locations."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        },
+        "Friendsanity": {
+            "description": [
+                "Getting friendship hearts are locations.",
+                "Will also create a <3 item for each Character you can befriend, inspired by the Stardew Apworld.",
+                "These hearts are required before raising their friendship levels is in logic as to not overwhelm people too early with the grind."
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Location Options"
+        }
+    }
+}

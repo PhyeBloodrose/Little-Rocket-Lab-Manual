@@ -1,0 +1,160 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
+    "data": [
+        {
+            "name": "Craft Iron Plate",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Craft Iron Bar| AND |Iron Plate|"
+        },
+        {
+            "name": "Craft Iron Bar",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Furnace (Level 1)| AND |Iron Bar| AND {OptOne(|Stone|)} AND {OptOne(|Iron Ore|)} AND {OptOne(|Coal|)}"
+        },
+        {
+            "name": "Craft Copper Bar",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Furnace (Level 1)| AND |Copper Bar| AND {OptOne(|Stone|)} AND {OptOne(|Copper Ore|)} AND {OptOne(|Coal|)}"
+        },
+        {
+            "name": "Craft Copper Wire",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Copper Wire| AND |Craft Copper Bar|"
+        },
+        {
+            "name": "Craft Gear",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Gear| AND |Craft Iron Plate|"
+        },
+        {
+            "name": "Craft Bearing",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Bearing| AND |Craft Iron Plate|"
+        },
+        {
+            "name": "Craft Drill (Level 1)",
+            "region": "T1_Research",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Craft Iron Plate| AND |Drill (Level 1)|"
+        },
+        {
+            "name": "Tier 2 Research",
+            "region": "T2_Research",
+            "category": [
+                "Research Unlocked"
+            ]
+        },
+        {
+            "name": "Craft Heatsink",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Heatsink| AND |Tier 2 Research|"
+        },
+        {
+            "name": "Craft Assembler (Level 2)",
+            "region": "T2-1_Research",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Assembler (Level 2)|"
+        },
+        {
+            "name": "Craft Stator",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Stator| AND |Craft Gear| AND |Craft Copper Wire| AND |Craft Assembler (Level 2)|"
+        },
+        {
+            "name": "Craft Small Wind Turbine",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Small Wind Turbine| AND |Craft Gear| AND |Craft Copper Wire| AND |Craft Gear|"
+        },
+        {
+            "name": "Craft Heatsink",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Heatsink| AND |Craft Copper Bar| AND |Assembler (Level 1)| AND |Craft Iron Plate|"
+        },
+        {
+            "name": "Craft Small Motor",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Small Motor| AND |Craft Bearing| AND |Craft Stator| AND |Craft Assembler (Level 2)|"
+        },
+        {
+            "name": "Craft Heavy Duty Motor",
+            "category": [
+                "Crafting Possible"
+            ],
+            "requires": "|Heavy Duty Motor| AND |Craft Heatsink| AND |Craft Small Motor| AND |Craft Assembler (Level 2)|"
+        },
+        {
+            "name": "Craft Flow Meter",
+            "category": [
+                "Crafting Possible",
+                "SUMMER"
+            ],
+            "requires": "|Flow Meter|"
+        },
+        {
+            "name": "Open the Silo",
+            "region": "MQ_7",
+            "category": [
+                "Goal Criteria"
+            ]
+        },
+        {
+            "name": "Assemble Rocket Stage 1",
+            "category": [
+                "TEMP GOAL",
+                "SUMMER"
+            ],
+            "requires": "|Open the Silo|"
+        },
+        {
+            "name": "Assemble Rocket Stage 2",
+            "category": [
+                "TEMP GOAL",
+                "FALL"
+            ],
+            "requires": "|Open the Silo|"
+        },
+        {
+            "name": "Repairing the Silo",
+            "category": [
+                "TEMP GOAL",
+                "WINTER"
+            ],
+            "requires": "|Open the Silo|"
+        },
+        {
+            "name": "Assemble Rocket Stage 3",
+            "category": [
+                "TEMP GOAL",
+                "FINALE"
+            ],
+            "requires": "|Open the Silo|"
+        }
+    ]
+}
+
